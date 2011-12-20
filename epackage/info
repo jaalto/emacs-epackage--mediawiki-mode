@@ -1,0 +1,20 @@
+Package: mediawiki
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 23)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Mark A. Hershberger <mah@everybody.org>
+Upstream-Bugs: https://bugs.launchpad.net/mediawiki-el
+Vcs-Type: bzr
+Vcs-Url: lp:mediawiki-el
+Vcs-Browser: https://code.launchpad.net/mediawiki-el
+Homepage: http://launchpad.net/mediawiki-el
+Wiki: http://www.emacswiki.org/emacs/MediaWikiMode
+Commentary: major mode for editing MediaWiki pages (wikipedia)
+Description: <short one line>
+ Provide mode to edit wikipedia pages.
+ .
+ Note: This is a successor of old wikipedia-mode.el
