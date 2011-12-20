@@ -1,4 +1,4 @@
-Package: mediawiki
+Package: mediawiki-mode
 Section: extensions
 License: GPL-3+
 Depends: emacs (>= 23)
