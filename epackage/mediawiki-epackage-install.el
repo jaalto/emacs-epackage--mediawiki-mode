@@ -62,4 +62,4 @@
 (autoload 'mediawiki-draft-send                 "mediawiki" "" t)
 (autoload 'mediawiki-draft-mode                 "mediawiki" "" t)
 (autoload 'mediawiki-mode                       "mediawiki" "" t)
-(provide 'mediawiki-epkg-install)
+(provide 'mediawiki-epackage-install)

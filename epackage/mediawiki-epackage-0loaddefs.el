@@ -25,4 +25,4 @@ mediawiki-draft-data-file.
 \(fn)" t nil)
 
 ;;;***
-(provide 'mediawiki-epkg-0loaddefs)
+(provide 'mediawiki-epackage-0loaddefs)
